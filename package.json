@@ -1,0 +1,12 @@
+{
+  "name": "betting_game_v2",
+  "version": "1.0.0",
+  "description": "node version of betting game ",
+  "entry point": "betting_game.js",
+  "main": "betting_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eamonn",
+  "license": "MIT"
+}
